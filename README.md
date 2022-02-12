@@ -1,7 +1,7 @@
 # Homebrew-Beer-Analysis
 Analysis Project about Homebrewed Beer using a Kaggle Dataset.
 
-****This assignment has now turned into a personal project that I use to practice Python, R, and SQL in my spare time. Please check my files and review for lately work!
+****This assignment has now turned into a personal project that I use to practice Python, R, and SQL in my spare time. Please check my files and review for latest work!
 
 This project was for a Data Wrangling assignment. I chose homebrewed beer because well, I'm a geologist and it's apart of the job description. 
 
